@@ -50,5 +50,4 @@ Use dashboard based on id 2587 from <https://grafana.com/grafana/dashboards/2587
 
 ## Result
 
-![Result](./asset/capture.jpg)
-
+![Result](assets/capture.jpg)
