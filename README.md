@@ -47,3 +47,8 @@ Stress test of the home page of the web container
 ## Dashboard
 
 Use dashboard based on id 2587 from <https://grafana.com/grafana/dashboards/2587>
+
+## Result
+
+![Result](./asset/capture.jpg)
+
